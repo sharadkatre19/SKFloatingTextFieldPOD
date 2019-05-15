@@ -1,0 +1,22 @@
+{
+  "name": "SKFloatingTextField",
+  "version": "0.1.0",
+  "summary": "A short description of SKFloatingTextField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shantaramk/SKFloatingTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shantaramk": "sharadkatre01@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/shantaramk/SKFloatingTextField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SKFloatingTextField/Classes/**/*"
+}

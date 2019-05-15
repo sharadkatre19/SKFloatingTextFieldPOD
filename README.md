@@ -22,7 +22,7 @@ pod 'SKFloatingTextField'
 
 ## Author
 
-shantaramk, sharadkatre01@gmail.com
+Sharad Katre, sharadkatre01@gmail.com
 
 ## License
 
